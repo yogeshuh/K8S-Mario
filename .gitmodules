@@ -1,0 +1,3 @@
+[submodule "k8s-mario"]
+	path = k8s-mario
+	url = https://github.com/Aj7Ay/k8s-mario.git
